@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "sentence.constructor()",
+      "setup": "npm install",
+      "run": "npm run test sentence.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "sentence.countWords()",
+      "setup": "",
+      "run": "npm run test sentence.countWords.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 14
+    },
+    {
+      "name": "sentence.countVowels()",
+      "setup": "",
+      "run": "npm run test sentence.countVowels.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 14
+    },
+    {
+      "name": "sentence.capitalize()",
+      "setup": "",
+      "run": "npm run test sentence.capitalize.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 14
+    },
+    {
+      "name": "appointment.constructor()",
+      "setup": "",
+      "run": "npm run test appointment.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "appointment.getDays()",
+      "setup": "",
+      "run": "npm run test appointment.getDays.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 14
+    },
+    {
+      "name": "appointment.remainder()",
+      "setup": "",
+      "run": "npm run test appointment.remainder.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 14
+    }
+  ]
+}
